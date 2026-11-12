@@ -1,0 +1,162 @@
+{
+ "doctype": "Workspace",
+ "name": "WhatsApp",
+ "label": "WhatsApp",
+ "title": "WhatsApp",
+ "module": "Frappe Whatsapp",
+ "icon": "message-circle",
+ "public": 1,
+ "is_hidden": 0,
+ "for_user": "",
+ "hide_custom": 0,
+ "sequence_id": 50,
+ "content": "[]",
+ "charts": [],
+ "number_cards": [],
+ "quick_lists": [],
+ "custom_blocks": [],
+ "links": [],
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "shortcuts": [
+  {
+   "label": "WhatsApp Inbox",
+   "type": "Page",
+   "link_to": "whatsapp-inbox",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Accounts",
+   "type": "DocType",
+   "link_to": "WhatsApp Account",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Messages",
+   "type": "DocType",
+   "link_to": "WhatsApp Message",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Templates",
+   "type": "DocType",
+   "link_to": "WhatsApp Templates",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Settings",
+   "type": "DocType",
+   "link_to": "WhatsApp Settings",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Notifications",
+   "type": "DocType",
+   "link_to": "WhatsApp Notification",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "Notification Logs",
+   "type": "DocType",
+   "link_to": "WhatsApp Notification Log",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Profiles",
+   "type": "DocType",
+   "link_to": "WhatsApp Profiles",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Recipients",
+   "type": "DocType",
+   "link_to": "WhatsApp Recipient",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "Recipient Lists",
+   "type": "DocType",
+   "link_to": "WhatsApp Recipient List",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "Bulk WhatsApp Messages",
+   "type": "DocType",
+   "link_to": "Bulk WhatsApp Message",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Flows",
+   "type": "DocType",
+   "link_to": "WhatsApp Flow",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Flow Fields",
+   "type": "DocType",
+   "link_to": "WhatsApp Flow Field",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Flow Screens",
+   "type": "DocType",
+   "link_to": "WhatsApp Flow Screen",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Buttons",
+   "type": "DocType",
+   "link_to": "WhatsApp Button",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "WhatsApp Message Fields",
+   "type": "DocType",
+   "link_to": "WhatsApp Message Fields",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  },
+  {
+   "label": "Bulk WhatsApp Status",
+   "type": "Report",
+   "link_to": "Bulk WhatsApp Status",
+   "doc_view": "List",
+   "color": "Grey",
+   "stats_filter": "[]"
+  }
+ ]
+}

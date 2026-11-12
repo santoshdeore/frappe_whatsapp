@@ -1,0 +1,13 @@
+{
+ "doctype": "Page",
+ "name": "whatsapp-inbox",
+ "page_name": "whatsapp-inbox",
+ "title": "WhatsApp Inbox",
+ "module": "Frappe Whatsapp",
+ "standard": "Yes",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ]
+}
